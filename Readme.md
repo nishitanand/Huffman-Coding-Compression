@@ -18,14 +18,14 @@ Then after receiving, they have to decompressed. So I have built a program to de
 
 And then finally the decompressed binary text files are converted to their original formats so that the receiver can view them.
 
-Also the program shows the size of binary text files before and after compression by Huffman Coding and tells us how much space has been saved by compression and it's pecentage
+Also the program shows the size of binary text files before and after compression by Huffman Coding and tells us how much space has been saved by compression and it's percentage
 
 To comress any files, put them in the folder names "Files_To_Compress_or_Convert". Some sample files are already in that folder.
 
 And then write this in command line
 
-python Main_file.py
+python Project_Main.py
 
 OR (On Mac)
 
-python3 Main_file.py
+python3 Project_Main.py
