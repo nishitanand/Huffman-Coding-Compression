@@ -20,3 +20,12 @@ And then finally the decompressed binary text files are converted to their origi
 
 Also the program shows the size of binary text files before and after compression by Huffman Coding and tells us how much space has been saved by compression and it's pecentage
 
+To comress any files, put them in the folder names "Files_To_Compress_or_Convert". Some sample files are already in that folder.
+
+And then write this in command line
+
+python Main_file.py
+
+OR (On Mac)
+
+python3 Main_file.py
